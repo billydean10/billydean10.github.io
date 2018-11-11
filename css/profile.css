@@ -1,0 +1,30 @@
+.card-top{
+	background-image: url("../img/night_forest.jpg");
+	background-repeat: no-repeat;
+}
+.navbar-color{
+	color: white;
+}
+.w-100{
+	border-radius: 50%;
+}
+.trail_description{
+	color: white
+}
+.card-bottom{
+	color: green 
+}
+body{
+	font-family: Verdana; 
+	font-size: 10;
+}
+.Llandegla{
+	color:white;
+	background-color: green; 
+	height: 200px;
+	padding: 50px;
+}
+.delamere{
+	background-image: url(../img/redbull.jpg);
+	padding: 50px;
+}
