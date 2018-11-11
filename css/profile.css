@@ -12,7 +12,10 @@
 	color: white
 }
 .card-bottom{
-	color: green 
+	background-image: url("../img/nightride.jpg");
+	background-repeat: no-repeat;
+	padding: 30px;
+	color: white;
 }
 body{
 	font-family: Verdana; 
